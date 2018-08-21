@@ -1,3 +1,3 @@
-# DailyTest
+# Animate
 Daily learning example.
-1.声明性动画
+1.在Swift中构建声明性动画框架
